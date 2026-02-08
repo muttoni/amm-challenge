@@ -189,8 +189,8 @@ Output is your average edge across simulations. The 30 bps normalizer typically 
 
 ## Strategy Visualizer
 
-An interactive starter-strategy visualizer is available in the
-[ammvisualizer repository](https://github.com/muttoni/ammvisualizer).
+GitHub user [@muttoni](https://github.com/muttoni) created an AMM visualizer
+for the starter strategies at [ammvisualizer.com](https://ammvisualizer.com).
 
 - Left panel: strategy Solidity code with active line highlights
 - Right panel: reserve-curve market simulation and trade tape
@@ -199,5 +199,5 @@ An interactive starter-strategy visualizer is available in the
 To use it, visit:
 
 ```bash
-https://github.com/muttoni/ammvisualizer
+https://ammvisualizer.com
 ```
